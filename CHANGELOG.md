@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Brand images: redesigned the integration's `brand/` assets (`icon`, `logo` and their `dark_` and `@2x` variants) as a faithful reproduction of the official Hitachi "Inspire the Next" wordmark — the brand name set in the corporate red (`#E60012`) with the tagline and signature arc — replacing the previous low-quality images. Assets are transparent, trimmed, palette-optimised PNGs at the required sizes (icons 256×256 / 512×512; logos with 256 px / 512 px shortest side), with dedicated dark-background variants.
+
 ## [2.1.4] - 2026-06-03
 
 ### Added
